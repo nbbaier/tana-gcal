@@ -1,6 +1,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
+##Specific files##
+backup-*.json
+ugh.json
+hello.js
+stuff.json
+
 ### Node ###
 # Logs
 logs
